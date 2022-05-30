@@ -9,4 +9,4 @@ Repositório criado  para o Desafio de Projeto.
 
 ### Links Inportantes
 
-[Download git]()([git-scm.com](https://git-scm.com/))
+[Download git](https://git-scm.com/)
